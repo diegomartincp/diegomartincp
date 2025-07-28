@@ -30,49 +30,32 @@
 
 <!-- https://github.com/badges/shields -->
 
-## 🛠️ My favorite tools
-
-### My used programming and scripting languages
+## 🛠️ My stack
 
 <p>
   <a href="https://github.com/search?q=user%diegomartincp+Bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/search?q=user%diegomartincp+JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%diegomartincp+Markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%diegomartincp+PHP"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%diegomartincp+Python"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/search?q=user%diegomartincp+SQL"><img alt="SQL" src="https://img.shields.io/badge/SQL-4053D6?logo=amazon-dynamodb&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/search?q=user%diegomartincp+TypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"></a>
-</p>
-
-### My used fameworks and libraries
-
-<p>
-  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /></a>
-</p>
-
-### My used databases and hosting
-
-<p>
-  <a href="#"><img alt="Apache HTTP Server" src="https://img.shields.io/badge/Apache%20HTTP%20Server-D22128?logo=apache&logoColor=white&style=for-the-badge" /></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="Let's Encrypt" src ="https://img.shields.io/badge/Let%27s%20Encrypt-003A70?logo=letsencrypt&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" /></a>
-</p>
-
-### My used software and tools
-
-<p>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" /></a>
-</p>
+  <a href="#"><img alt="Perplexity" src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F" /></a>
+  <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/POSTGRES-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F" /></a>
+
+
+</p>  
+
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
