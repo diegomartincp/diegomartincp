@@ -8,9 +8,10 @@
 ---
 <!-- https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/diegomartincp/Speech2Brie](https://github.com/diegomartincp/Speech2Brief"><img width="270" alt="JIM" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=diegomartincp&repo=Speech2Brief&theme=react&bg_color=22272e&title_color=f0f6fc&icon_color=edbb5f&hide_border=true&show_icons=true" /></a>
-  <a href="https://github.com/diegomartincp/FDE-Technical-Challenge](https://github.com/diegomartincp/FDE-Technical-Challenge"><img width="270" alt="JIM" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=diegomartincp&repo=FDE-Technical-Challenge&theme=react&bg_color=22272e&title_color=f0f6fc&icon_color=edbb5f&hide_border=true&show_icons=true" /></a>
-  <a href="https://github.com/diegomartincp/SpotScout](https://github.com/diegomartincp/SpotScout"><img width="270" alt="JIM" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=diegomartincp&repo=SpotScout&theme=react&bg_color=22272e&title_color=f0f6fc&icon_color=edbb5f&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/diegomartincp/Speech2Brief"><img width="270" alt="JIM" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=diegomartincp&repo=Speech2Brief&theme=react&bg_color=22272e&title_color=f0f6fc&icon_color=edbb5f&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/diegomartincp/FDE-Technical-Challenge"><img width="270" alt="JIM" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=diegomartincp&repo=FDE-Technical-Challenge&theme=react&bg_color=22272e&title_color=f0f6fc&icon_color=edbb5f&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/diegomartincp/SpotScout"><img width="270" alt="JIM" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=diegomartincp&repo=SpotScout&theme=react&bg_color=22272e&title_color=f0f6fc&icon_color=edbb5f&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/diegomartincp/healthbot"><img width="270" alt="JIM" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=diegomartincp&repo=healthbot&theme=react&bg_color=22272e&title_color=f0f6fc&icon_color=edbb5f&hide_border=true&show_icons=true" /></a>
 </p>
 
 
